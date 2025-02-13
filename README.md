@@ -8,4 +8,6 @@ parancsokat és forráskódrészleteket.
 * `demo/empapp-cxf-client` - SOAP webszolgáltatások CXF-fel, client alkalmazás
 * `demo/empapp-jms` - Aszinkron üzenetkezelés JMS-sel, server alkalmazás
 * `demo/empapp-jms-client` - Aszinkron üzenetkezelés JMS-sel, client alkalmazás
+* `demo/empapp-cxf-jms` - SOAP webszolgáltatások CXF over JMS-sel, server alkalmazás
+* `demo/empapp-cxf-jms-client` - SOAP webszolgáltatások CXF over JMS-sel, client alkalmazás
 
