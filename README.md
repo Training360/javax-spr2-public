@@ -9,6 +9,7 @@ A videón szereplő feladatok megoldása a leckék sorrendjében:
 * `demo/empapp-jpa-audit` - Spring Data JPA auditing
 * `demo/empapp-envers` - Hibernate Envers
 * `demo/empapp-async` - Aszinkron végrehajtás és ütemezés
+* `demo/empapp-quartz` - Ütemezés a Quartz használatával
 * `demo/empapp-cache` - Deklaratív cache-elés `ConcurrentMap` implementációval
 * `demo/empapp-ehcache` - Cache-elés Ehcache használatával
 * `demo/empapp-redis` - Cache-elés Redis használatával
